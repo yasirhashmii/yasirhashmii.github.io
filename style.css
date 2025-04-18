@@ -173,13 +173,13 @@ section .header{
     font-size: 1.2rem;
     font-size: 600;
 }
-.features .card p{
+/* .features .card p{
     margin-bottom: 1rem;
     color: #ccc;
-}
-.features .card ul{
+} */
+.features .card li{
     color: #ccc;
-    margin: 1rem 1rem;
+    margin: 0.7rem 0.7rem;
 }
 .features .card a{
     color: #ccc;
